@@ -3,7 +3,7 @@ My Secure Nginx
 
 
 nginx.conf を /etc/nginx/ 直下に配置  
-com.example.com とかを /etc/nginx.conf/ 配下に配置  
+com.example.conf とかを /etc/nginx/conf.d/ 配下に配置  
 SSL 類の設定は任意の場所(/etc/nginx/ssl/ とか)に配置  
 
 
