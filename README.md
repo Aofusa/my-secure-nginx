@@ -12,6 +12,7 @@ SSL 類の設定は任意の場所(/etc/nginx/ssl/ とか)に配置
 [ImmuniWeb WebScan](https://www.htbridge.com/websec/)でもう少し詳しくチェック  
 [CSP Evaluator](https://csp-evaluator.withgoogle.com/)でCSPチェック  
 [Report URI](https://report-uri.com/)で設定のレポーティング  
+[GTMetrix](https://gtmetrix.com/)でパフォーマンスチェック  
 
 
 # Nginxのインストールと起動(Ubuntu)
