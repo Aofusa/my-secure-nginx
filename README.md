@@ -8,7 +8,8 @@ SSL 類の設定は任意の場所(/etc/nginx/ssl/ とか)に配置
 
 
 # セキュリティチェック
-[observatory](https://observatory.mozilla.org/)で総合チェック  
+[MDN Observatory](https://observatory.mozilla.org/)で総合チェック  
+[ImmuniWeb WebScan](https://www.htbridge.com/websec/)でもう少し詳しくチェック  
 [CSP Evaluator](https://csp-evaluator.withgoogle.com/)でCSPチェック  
 [Report URI](https://report-uri.com/)で設定のレポーティング  
 
